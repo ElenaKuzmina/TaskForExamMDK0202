@@ -1,1 +1,4 @@
 SSH - ключи шифрования
+line = input()
+list_word = line.split()
+print(list_word)
